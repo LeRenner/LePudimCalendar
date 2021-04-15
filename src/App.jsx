@@ -12,65 +12,65 @@ const classInformation = {
     {
       "classTitle": "Probabilidade I",
       "classDescription": "Horário: 8:00 -> 9:40",
-      "classLink": "https://meet.google.com/gqy-xxnp-wgg?authuser=2"
+      "classLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
       "classTitle": "Cálculo π",
       "classDescription": "Horário: 10:00 -> 11:40",
-      "classLink": "https://meet.google.com/moa-pxzj-twu?authuser=2"
+      "classLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
       "classTitle": "Modelagem e Simulação",
       "classDescription": "Horário: 14:00 -> 15:40, 16:00 -> 17:40",
-      "classLink": "https://us02web.zoom.us/wc/join/81466656759?wpk=wcpkff8b2e08df6bbc29e8a85434ab141b62"
+      "classLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ],
   "Terça": [
     {
       "classTitle": "Estatística Descritiva",
       "classDescription": "Horário: 8:00 -> 9:40",
-      "classLink": "https://meet.google.com/vju-fpkn-xye?authuser=2"
+      "classLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
       "classTitle": "Algorítmos e Estruturas de Dados II",
       "classDescription": "Horário: 10:00 -> 11:40",
-      "classLink": "https://meet.google.com/knc-zppg-hcy?authuser=2"
+      "classLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ],
   "Quarta": [
     {
       "classTitle": "Cálculo π",
       "classDescription": "Horário: 8:00 -> 9:40",
-      "classLink": "https://meet.google.com/htb-sqzt-fit?authuser=2"
+      "classLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
       "classTitle": "Probabilidade I",
       "classDescription": "Horário: 10:00 -> 11:40",
-      "classLink": "https://meet.google.com/gqy-xxnp-wgg?authuser=2"
+      "classLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ],
   "Quinta": [
     {
       "classTitle": "Algorítmos e Estruturas de Dados II",
       "classDescription": "Horário: 8:00 -> 9:40",
-      "classLink": "https://meet.google.com/knc-zppg-hcy?authuser=2"
+      "classLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
       "classTitle": "Estatística Descritiva",
       "classDescription": "Horário: 10:00 -> 11:40",
-      "classLink": "https://meet.google.com/vju-fpkn-xye?authuser=2"
+      "classLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
       "classTitle": "Caminhos no Bacharelado em Ciência da Computação",
       "classDescription": "Horário: 13:00 -> 14:40",
-      "classLink": "http://meet.google.com/kva-stse-yzn?authuser=2"
+      "classLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ],
   "Sexta": [
     {
       "classTitle": "Probabilidade I",
       "classDescription": "Horário: 8:00 -> 9:40",
-      "classLink": "https://meet.google.com/gqy-xxnp-wgg?authuser=2"
+      "classLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ]
 }
